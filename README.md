@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
- <img src="https://github-readme-stats-one-bice.vercel.app/api?username=SynTime&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER" al    t="SynTime's GitHub stats" height="185px" /> <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=SynTime&layout=compact&langs_    count=8&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER" alt="Top Langs" height="185px" />
+ <img src="https://github-readme-stats-one-bice.vercel.app/api?username=SynTime&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER" alt="SynTime's GitHub stats" height="185px" /> 
+ <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=SynTime&layout=compact&langs_count=8&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER" alt="Top Langs" height="185px" />
